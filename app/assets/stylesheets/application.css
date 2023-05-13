@@ -13,3 +13,25 @@
  *= require_tree .
  *= require_self
  */
+
+ h1 {
+  font-size: 40px;
+ }
+
+ .user-input {
+  margin-top: 20px;
+  padding: 5px;
+  border-left: 3px solid grey;
+ }
+
+ .coach {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 5px;
+  border-left: 3px solid grey;
+  background-color: rgb(248, 242, 243);
+ }
+
+ #link a{
+  text-decoration: none;
+ }
